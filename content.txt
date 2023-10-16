@@ -1,0 +1,9 @@
+1. using app router 
+2. server side rendering (server component)
+3. next js: 
+    - client side + server side 
+4. route: 
+    - file-system based routing 
+    - folder/page.tsx (router)
+    - tsx: typescript + jsx
+    - Link component/navigation (useRouter)
