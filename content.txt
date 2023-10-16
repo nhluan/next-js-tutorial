@@ -7,3 +7,6 @@
     - folder/page.tsx (router)
     - tsx: typescript + jsx
     - Link component/navigation (useRouter)
+        => navigation/useRouter => use handle logic 
+5. layout (root layout)
+6. 
